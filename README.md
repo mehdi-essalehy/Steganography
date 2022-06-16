@@ -2,6 +2,8 @@
 
 Pour installer l'application, utiliser le fichier app-debug.apk
 
+Pour utiliser l'application, il faut lui permette accès au storage, pour faire cela, aller dans Settings>Apps>Steganography>Permissions
+
 Les fichiers .java sont dans le dossier src/main/java
 
 Les fichiers .xml de layout sont le dossier src/main/res/layout
